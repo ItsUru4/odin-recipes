@@ -3,4 +3,10 @@ html {
     color: white;
     background-color: black;
     font-family: "Times New Roman",serif;
+ 
+    
+}
+img{
+    width:auto;
+    height:auto;
 }
