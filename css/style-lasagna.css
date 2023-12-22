@@ -1,12 +1,14 @@
-/* lasagna-styles.css*/
 body {
     color: white;
     background-color: black;
-    font-family: Arial, Helvetica, "Times New Roman", serif;
- 
-    
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman';
 }
-img{
-    width:auto;
-    height:auto;
+
+
+.text
+{
+text-align:center;
+}
+h3 {
+    color: aqua;
 }
