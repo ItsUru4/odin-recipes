@@ -1,0 +1,22 @@
+body{
+    color: rgb(163, 96, 96);
+    background-color: black;
+    margin: 0px 24px;
+    font-family: "Helvetica Standard", sans-serif;
+}
+.image{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    height: 500px;
+    width: auto;
+}
+.title{
+    text-align:center;
+    border-bottom: 4px dotted aquamarine;
+    padding-bottom: 2px;
+}
+h3{
+    color: aqua;
+
+}
