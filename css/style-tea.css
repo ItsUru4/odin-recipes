@@ -2,7 +2,7 @@ body{
     color: rgb(163, 96, 96);
     background-color: black;
     margin: 0px 24px;
-    font-family: "Helvetica Standard", sans-serif;
+    font-family: Helvetica, "Helvetica Standard", sans-serif;
 }
 .image{
     display:block;
